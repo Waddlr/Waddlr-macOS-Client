@@ -12,7 +12,7 @@ Windows: `npm run-script build`
 
 macOS: `npm run-script build-mac`
 
--->
-Then open the folder `dist` and run either the .exe for Windows or .pkg for macOS
+
+Then open the folder `dist` and run either the .exe for Windows or .pkg for macOS -->
 # License
 If you're going to use this client for your cpps, please attribute AltoDev and leave all attribution in it's original state.
